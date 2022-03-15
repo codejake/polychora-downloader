@@ -1,6 +1,6 @@
-# polychora-downloader
-
 ![Polychora](Polychora.jpg)
+
+# polychora-downloader
 
 The [Polychora YouTube channel](https://www.youtube.com/c/Polychora) is filled with great electronic music. If you like artists like [Com Truise](https://en.wikipedia.org/wiki/Com_Truise) and [Tycho](https://en.wikipedia.org/wiki/Tycho_(musician)), you'll like Polychora.
 
